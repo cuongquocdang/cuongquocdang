@@ -8,3 +8,4 @@
 ## Multi Tenants
 1. [Database Per Tenant Strategy](https://github.com/cuongquocdang/database-per-tenant)
 2. [Schema Per Tenant Strategy](https://github.com/cuongquocdang/schema-per-tenant)
+3. [Shared Database with Discriminator Column Strategy](https://github.com/cuongquocdang/shared-database-discriminator-column)
