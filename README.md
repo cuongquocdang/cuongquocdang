@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-cuongquocdang/cuongquocdang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Personal Projects
+## Multi Tenants
+1. [Database Per Tenant Strategy](https://github.com/cuongquocdang/database-per-tenant)
+2. [Schema Per Tenant Strategy](https://github.com/cuongquocdang/schema-per-tenant)
