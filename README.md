@@ -5,11 +5,11 @@
 
 ## Technical Skills
 
-- System Integration: Experienced in integrating systems through both synchronous (REST API) and asynchronous (Kafka, RabbitMQ, Azure Service Bus) communication methods.
-- Provider Integration: Skilled in designing and integrating with multiple providers, including Payment Gateways, Gamification Hubs, Promotion Hubs, and Value-Added Services such as Insurance.
-- Integration Flow Design: Proficient in clarifying and designing integration flows, ensuring they are tailored to customer needs, and actively involved in planning and delivering features seamlessly to customers.
-- Deployment & Automation: Experienced in deploying applications via GitOps processes, automating infrastructure management and software deployment. Involved in writing unified templates to reduce effort and ensure consistency across deployments.
-- Database Performance Optimization: Experienced in increasing database performance through various optimization techniques, ensuring efficient query execution and improving overall system responsiveness.
+- **System Integration**: Experienced in integrating systems through both synchronous (REST API) and asynchronous (Kafka, RabbitMQ, Azure Service Bus) communication methods.
+- **Provider Integration**: Skilled in designing and integrating with multiple providers, including Payment Gateways, Gamification Hubs, Promotion Hubs, and Value-Added Services such as Insurance.
+- **Integration Flow Design**: Proficient in clarifying and designing integration flows, ensuring they are tailored to customer needs, and actively involved in planning and delivering features seamlessly to customers.
+- **Deployment & Automation**: Experienced in deploying applications via GitOps processes, automating infrastructure management and software deployment. Involved in writing unified templates to reduce effort and ensure consistency across deployments.
+- **Database Performance Optimization**: Experienced in increasing database performance through various optimization techniques, ensuring efficient query execution and improving overall system responsiveness.
 
   ## Strengts
 
