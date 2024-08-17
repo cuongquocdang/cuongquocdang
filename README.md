@@ -1,4 +1,22 @@
-- 👋 Hi, I’m Cuong Dang
+# About me
+
+- I’m Cuong Dang :v:.
+- I have approximately 5 years of experience, specifically in Java programming and the Spring ecosystem.
+
+## Technical Skills
+
+- System Integration: Experienced in integrating systems through both synchronous (REST API) and asynchronous (Kafka, RabbitMQ, Azure Service Bus) communication methods.
+- Provider Integration: Skilled in designing and integrating with multiple providers, including Payment Gateways, Gamification Hubs, Promotion Hubs, and Value-Added Services such as Insurance.
+- Integration Flow Design: Proficient in clarifying and designing integration flows, ensuring they are tailored to customer needs, and actively involved in planning and delivering features seamlessly to customers.
+- Deployment & Automation: Experienced in deploying applications via GitOps processes, automating infrastructure management and software deployment. Involved in writing unified templates to reduce effort and ensure consistency across deployments.
+- Database Performance Optimization: Experienced in increasing database performance through various optimization techniques, ensuring efficient query execution and improving overall system responsiveness.
+
+  ## Strengts
+
+- Highly adaptable and proactive in continuous learning, quickly grasping new technologies and methodologies to deliver high-quality solutions in dynamic environments.
+- Actively analyze new features, providing valuable insights and recommendations to enhance implementation and integration.
+- Open-minded and collaborative, working effectively with cross-functional teams, including Frontend Developers, Quality Control, Business Analysts, and Product Owners, to clarify requirements and determine the most suitable approach for delivering valuable customer features.
+- Enthusiastic about sharing knowledge with the team, with a strong desire to sharpen skills and grow together through collaborative learning and development.
 
 # Sharpen me
 
